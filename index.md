@@ -1,1 +1,3 @@
-# exegy.github.io
+## Exegy logos
+
+## Exegy icons
