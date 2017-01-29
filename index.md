@@ -1,17 +1,17 @@
 ## Exegy logos
-`https://raw.githubusercontent.com/exegy/exegy.github.io/master/ilogos/exegy_185.gif`
+`https://raw.githubusercontent.com/exegy/exegy.github.io/master/logos/exegy_185.gif`
 
 ![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/ilogos/exegy_185.gif)
 
 ----
 
-`https://raw.githubusercontent.com/exegy/exegy.github.io/master/ilogos/exegy_X_1.5in_width.gif`
+`https://raw.githubusercontent.com/exegy/exegy.github.io/master/logos/exegy_X_1.5in_width.gif`
 
 ![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/ilogos/exegy_X_1.5in_width.gif)
 
 ----
 
-`https://raw.githubusercontent.com/exegy/exegy.github.io/master/ilogos/exegy_X_1in_width.gif`
+`https://raw.githubusercontent.com/exegy/exegy.github.io/master/logos/exegy_X_1in_width.gif`
 
 ![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/ilogos/exegy_X_1in_width.gif)
 
