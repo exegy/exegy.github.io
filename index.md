@@ -46,4 +46,18 @@
 
 ![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/X-Icon_16x16.gif)
 
+----
 
+`<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/favicon-32x32.png" sizes="32x32">`
+
+![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/favicon-32x32.png)
+
+`<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/favicon-16x16.png" sizes="16x16">`
+
+![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/favicon-16x16.png)
+
+----
+
+`https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/favicon.ico`
+
+![](https://raw.githubusercontent.com/exegy/exegy.github.io/master/icons/favicon.ico)
